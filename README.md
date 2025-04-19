@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adel Alradaie</h1>
 
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=adelalradaie)
 
 
 - 💬 Ask me about **react,react-native**
