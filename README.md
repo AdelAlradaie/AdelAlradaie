@@ -46,25 +46,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
----
 
-### My Github Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelalradaie&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Adel's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelalradaie&theme=algolia" alt="adelalradaie" />
-</p>
 
----
 
-### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelalradaie&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/adelalradaie"><img alt="Check out adelalradaie's profile on stardev.io" src="https://stardev.io/developers/adelalradaie/badge/languages/locality.svg" /></a>
