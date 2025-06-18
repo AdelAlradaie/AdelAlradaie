@@ -34,10 +34,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel)
 
 #### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
@@ -45,9 +48,4 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-
-
-
-
-
-
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
