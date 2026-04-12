@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Adel+Alradaie;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Adel+Alradaie;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30" />
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 - 🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)
 - 🌱 On a mission to master Fullstack Engineering ❤️
 - 💻 Love building clean, scalable, production-ready apps
-- 📖 Always diving into docs like it’s my daily newspaper 📰
+- 📖 Always diving into docs like it's my daily newspaper 📰
 - 🤯 Fun Fact: `==` and `===` — not the same. JS be wild.
 
 ---
@@ -36,16 +36,45 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel)
+
+#### 🗄️ Databases & ORMs
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 
 #### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adelalradaie&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adelalradaie&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelalradaie&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### 🎯 Current Goals
+
+- 🚀 Build and deploy a fullstack SaaS application
+- ☁️ Master cloud deployment (AWS/Vercel/Railway)
+- 📝 Write technical articles about my learning journey
+- 🤝 Contribute to open-source projects
+
+---
+
+<p align="center">
+  <i>⚡ "Code. Deploy. Repeat. Every commit tells a story." ⚡</i>
+</p>
