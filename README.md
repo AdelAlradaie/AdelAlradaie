@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Adel+Alradaie;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30" />
@@ -23,7 +24,7 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-alradaie/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engadelmohammedalradaie@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:softengadel@gmail.com)
 
 ---
 
